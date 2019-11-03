@@ -6,6 +6,8 @@ tags:
 - bioinformatics
 ---
 
+<span style="color:red">*need update*</span>
+
 [Variant Call Format](http://gatkforums.broadinstitute.org/discussion/1268/how-should-i-interpret-vcf-files-produced-by-the-gatk): Used to record variants (SNP/InDel)
 
 ## Annotation
@@ -31,22 +33,22 @@ Begin with `#`
     **b. `DP`: reads coverage after filtering**
     
     **c. `FS`: FisherStrand**<br>
-        1. The p-value of the Fhred format obtained by Fisher's exact test to detect chain skew.
-        2. The smaller, the better.
-        3. The larger, the more serious strand bias
+        1. The p-value of the Fhred format obtained by Fisher's exact test to detect chain skew.<br>
+        2. The smaller, the better.<br>
+        3. The larger, the more serious strand bias<br>
         **4. Filter: suggest to keep sites with FS < 10~20 (can be done by GATK)**
         
     **d. ReadPosRandSum**<br>
-        1. Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias
-        2. When variant apprear near the ends of the sequence, it's less accurate.
-        3. Positive value: the allele is in the middle of the reads
-        4. Negative value: near the ends
+        1. Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias<br>
+        2. When variant apprear near the ends of the sequence, it's less accurate.<br>
+        3. Positive value: the allele is in the middle of the reads<br>
+        4. Negative value: near the ends<br>
         **5. Filter: suggest to keep sites with ReadPosRankSum > -1.65~-3.0**
         
     **e. MQRankSum**<br>
-        1. measure the mapping quality between reads of alternative allele and reference allele
-        2. Negative: alternative allele's reads mapping quality is lower than reference allele's.
-        **3. Filter: suggest to keep sites with MQRankSum > -1.65~-3.0
+        1. measure the mapping quality between reads of alternative allele and reference allele.<br>
+        2. Negative: alternative allele's reads mapping quality is lower than reference allele's.<br>
+        **3. Filter: suggest to keep sites with MQRankSum > -1.65~-3.0**
 
 9. FORMAT `GT:AD:DP:GQ:PL`
 
