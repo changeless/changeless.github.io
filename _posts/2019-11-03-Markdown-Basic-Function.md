@@ -31,3 +31,6 @@ More than three times of `*` `+` `-`
 ## Image and link
 1. Link:`[]` `()` -- words,link
 2. Image:`!` `[]` `()`
+
+## Color
+`<span style="color:red">`color changed words`</span>`
