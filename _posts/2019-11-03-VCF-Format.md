@@ -30,20 +30,20 @@ Begin with `#`
         
     **b. `DP`: reads coverage after filtering**
     
-    **c. `FS`: FisherStrand**
+    **c. `FS`: FisherStrand**<br>
         1. The p-value of the Fhred format obtained by Fisher's exact test to detect chain skew.
         2. The smaller, the better.
         3. The larger, the more serious strand bias
         **4. Filter: suggest to keep sites with FS < 10~20 (can be done by GATK)**
         
-    **d. ReadPosRandSum**
+    **d. ReadPosRandSum**<br>
         1. Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias
         2. When variant apprear near the ends of the sequence, it's less accurate.
         3. Positive value: the allele is in the middle of the reads
         4. Negative value: near the ends
         **5. Filter: suggest to keep sites with ReadPosRankSum > -1.65~-3.0**
         
-    **e. MQRankSum**
+    **e. MQRankSum**<br>
         1. measure the mapping quality between reads of alternative allele and reference allele
         2. Negative: alternative allele's reads mapping quality is lower than reference allele's.
         **3. Filter: suggest to keep sites with MQRankSum > -1.65~-3.0
@@ -68,7 +68,7 @@ Begin with `#`
         
     **c. `GC`: Genotype Quality `Phred_scaled`**
         High value equals to the high possibility of the genotype
-        Maxium: 99
+        Maxium: `99`
         
     **d. `PL`: likelihood genotypes**
         provieds the likelihoods of the given genotypes(0/0, 0/1, 1/0)
