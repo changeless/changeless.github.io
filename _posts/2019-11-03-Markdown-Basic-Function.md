@@ -3,7 +3,7 @@ title: Markdown Basic Function
 categories: 
 - code
 tags: 
-- markdown
+- bioinformatics
 ---
 
 ## Title
