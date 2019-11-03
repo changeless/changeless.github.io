@@ -1,33 +1,33 @@
 ---
-title: Markdown: Basic Function
+title: Markdown Basic Function
 categories: 
 - code
 tags: 
 - markdown
 ---
 
-##Title
+## Title
 `#` first level title
 `##` second level title
 
-##Quote
+## Quote
 `>` quote
 
-##List
+## List
 1. Unordered list: `*` `+` `-`
 2. Ordered list: `.`
 
-##Code block
+## Code block
 1. Four spaces or Tab
 2. In line: `
 
-##Split line
+## Split line
 More than three times of `*` `+` `-`
 
-##Bold and italic
+## Bold and italic
 1. Bold:`**`
 2. Italic:`*`
 
-##Image and link
+## Image and link
 1. Link:`[]` `()` -- words,link
 2. Image:`!` `[]` `()`
