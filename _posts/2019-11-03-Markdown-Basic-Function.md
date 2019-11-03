@@ -41,3 +41,4 @@ More than three times of `*` `+` `-`
 ## reference
 1. [Markdown快速入门](https://www.jianshu.com/p/774f70629770)
 2. [How to apply color in Markdown](https://stackoverflow.com/a/35485694)
+3. [Learning-Markdown (Markdown 入门参考)](http://xianbai.me/learn-md/index.html)
