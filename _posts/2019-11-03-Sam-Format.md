@@ -99,5 +99,7 @@ clipped均表示一条read的序列被分开，之所以被分开，是因为rea
 
 ### QUAL (Optional)
 
+<span style="color:red">*last five parts of the body would be update in the future*</span>.
+
 Reference:
 1. [sam格式文件解读](https://blog.csdn.net/genome_denovo/article/details/78712972)
