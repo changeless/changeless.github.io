@@ -69,13 +69,13 @@ If the read can completely match the sequence (CIGAR string is M) then this posi
 ### CIGAR
 CIGAR string
 
-    1. M：alignment match (can be a sequence match or mismatch)
-    2. I：insertion to the reference
-    3. D：deletion from the reference
-    4. N：skipped region from the reference
-    5. P：padding (silent deletion from padded reference)
-    6. S：soft clipping (clipped sequences present in SEQ)
-    7. H：hard clipping (clipped sequences NOT present in SEQ)
+    M：alignment match (can be a sequence match or mismatch)
+    I：insertion to the reference
+    D：deletion from the reference
+    N：skipped region from the reference
+    P：padding (silent deletion from padded reference)
+    S：soft clipping (clipped sequences present in SEQ)
+    H：hard clipping (clipped sequences NOT present in SEQ)
     
 
 clipped均表示一条read的序列被分开，之所以被分开，是因为read的一部分序列能匹配到第三列的RNAME序列上，而被分开的那部分不能匹配到RNAME序列上。
