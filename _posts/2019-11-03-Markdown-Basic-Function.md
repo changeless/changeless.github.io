@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Markdown: Basic Function
-categories: [code]
-tags: [markdown]
+categories: 
+- code
+tags: 
+- markdown
 ---
 
 ##Title
