@@ -5,7 +5,7 @@ categories:
 tags: 
 - bioinformatics
 ---
-<span style="color:red">*need to update*</span>
+<span style="color:red">*need to update*</span> <br>
 <span style="color:red">*我学不会了！！！！不学啦！！！嘤嘤嘤！！！*</span>
 
 ## GATK HaplotypeCaller
@@ -42,6 +42,6 @@ Quality control on `.vcf` files. Using the overlap of its own data and known var
 
 ## ANNOVAR
 
-## reference
+## Reference
 1. [GATK4.0和全基因组数据分析实践(上）](https://mp.weixin.qq.com/s?__biz=MzAxOTUxOTM0Nw==&mid=2649798425&idx=1&sn=ae355ed362848578e5c853413f23dfd7&chksm=83c1d505b4b65c13124c9acd210356c4364ec9f5498bbd16fa4475be29811213abb64ea9720f&scene=21#wechat_redirect)[（下）](https://zhuanlan.zhihu.com/p/34878471): More suitable for human genome analysis
 2. [GATK4全基因组数据分析最佳实践](https://zhuanlan.zhihu.com/p/36745259):Give more infromation on `.gvcf` files.
