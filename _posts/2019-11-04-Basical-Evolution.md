@@ -68,4 +68,5 @@ A selective sweep is the reduction or elimination of variation among the nucleot
 2. [Nature颠覆传统观点，聚焦“遗传搭车客”](http://www.ebiotrade.com/newsf/2013-7/2013723151052328.htm): 这个讲的不怎么样
 3. [Genetic hitchhiking](https://en.wikipedia.org/wiki/Genetic_hitchhiking): Wiki is the GREATEST!!
 4. [Evolution](https://en.wikipedia.org/wiki/Evolution#Natural_selection): en-wiki
-5. [进化](https://zh.wikipedia.org/wiki/%E6%BC%94%E5%8C%96#%E6%A9%9F%E5%88%B6):zh-wiki
+5. [进化](https://zh.wikipedia.org/wiki/%E6%BC%94%E5%8C%96#%E6%A9%9F%E5%88%B6): zh-wiki
+6. [Background selection](https://en.wikipedia.org/wiki/Background_selection): en-wiki
