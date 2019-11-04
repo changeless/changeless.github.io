@@ -34,6 +34,9 @@ Evolution is accompanied by other mutations with no obvious benefit.
 3. An allele changes frequency not because it itself is under natural selection, but because it is near another gene that is undergoing a selective sweep and that is on the same DNA chain
 4. When one gene goes through a selective sweep, any other nearby polymorphisms that are in linkage disequilibrium will tend to change their allele frequencies too.
 
+### Background selection
+Similiar with genetic hitchhiking but in oppsite selection. The loss of genetic diversity at a non-deleterious locus due to negative selection against linked deleterious alleles.
+
 ##### Selective sweep
 由于某一位点受到强选择后，其周围的位点的多态性因受改位点牵连而发生多态性降低的现象。
 A selective sweep is the reduction or elimination of variation among the nucleotides in neighboring DNA of a mutation as the result of recent and strong positive natural selection.
