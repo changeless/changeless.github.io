@@ -5,8 +5,6 @@ categories:
 tags: 
 - bioinformatics
 ---
-<span style="color:red">*need to update*</span> <br>
-<span style="color:red">*我学不会了！！！！不学啦！！！嘤嘤嘤！！！*</span>
 
 ## GATK HaplotypeCaller
 Generate `.vcf` File
@@ -22,7 +20,7 @@ Generate `.vcf` File
 Quality control on `.vcf` files. Using the overlap of its own data and known variant sites, a classifier is modeled by the GMM model to score the variance data to assess the feasibility of each site, in order to reject the false positive results and maintain the correct data.
 
 ### Requirement
-1. Known variation set (`Hapmap`, `OMNI`, `1000G`, and `dbsnp`)<br>
+1. Known variation set (`Hapmap`, `OMNI`, `1001G`, and `dbsnp`)<br>
 2. There must be enough mutation sites in the new test results.<br>
 3. Hard-filtering: If the above two conditions are not met, manual filtering should be considered. (tools used: `gatk SelectVariants`, `VariantFiltration`, and `MergeVcfs`)
 
@@ -38,9 +36,9 @@ Quality control on `.vcf` files. Using the overlap of its own data and known var
 
 ### INDEL calling
 
-## 位点注释
-
 ## ANNOVAR
+
+<span style="color:red">*need to update*</span> <br>
 
 ## Reference
 1. [GATK4.0和全基因组数据分析实践(上）](https://mp.weixin.qq.com/s?__biz=MzAxOTUxOTM0Nw==&mid=2649798425&idx=1&sn=ae355ed362848578e5c853413f23dfd7&chksm=83c1d505b4b65c13124c9acd210356c4364ec9f5498bbd16fa4475be29811213abb64ea9720f&scene=21#wechat_redirect)[（下）](https://zhuanlan.zhihu.com/p/34878471): More suitable for human genome analysis
