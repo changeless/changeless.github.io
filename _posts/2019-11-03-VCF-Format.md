@@ -6,9 +6,9 @@ tags:
 - bioinformatics
 ---
 
-<span style="color:red">*need update*</span>
-
 [Variant Call Format](http://gatkforums.broadinstitute.org/discussion/1268/how-should-i-interpret-vcf-files-produced-by-the-gatk): Used to record variants (SNP/InDel)
+
+<span style="color:red">*need update*</span>
 
 ## Annotation
 Begin with `#`
