@@ -1,5 +1,5 @@
 ---
-title: Call-Variant
+title: Call Variant
 categories: 
 - code
 tags: 
