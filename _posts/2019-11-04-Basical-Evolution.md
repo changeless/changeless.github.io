@@ -1,5 +1,5 @@
 ---
-title: Basical-Evolution
+title: Basical Evolution
 categories: 
 - biology
 tags: 
