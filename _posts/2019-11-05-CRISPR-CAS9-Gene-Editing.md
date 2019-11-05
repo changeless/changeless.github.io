@@ -1,5 +1,5 @@
 ---
-title: CRISPR/CAS9 Gene Editing
+title: CRISPR/CAS9-Gene-Editing
 categories: 
 - biology
 tags: 
