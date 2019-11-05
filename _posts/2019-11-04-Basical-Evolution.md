@@ -3,7 +3,7 @@ title: Basical-Evolution
 categories: 
 - biology
 tags: 
-- biology
+- Evolution
 ---
 
 ![Modern synthesis (20th century)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Modern_Synthesis.svg/780px-Modern_Synthesis.svg.png)
