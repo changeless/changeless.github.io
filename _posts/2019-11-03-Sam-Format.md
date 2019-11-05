@@ -1,5 +1,5 @@
 ---
-title: Sam-format
+title: Sam Format
 categories: 
 - code
 tags: 
