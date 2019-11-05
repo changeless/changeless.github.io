@@ -1,5 +1,5 @@
 ---
-title: VCF-format
+title: VCF Format
 categories: 
 - code
 tags: 
