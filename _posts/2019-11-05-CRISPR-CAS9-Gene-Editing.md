@@ -1,5 +1,5 @@
 ---
-title: CRISPR/CAS9-Gene-Editing
+title: CRISPR/CAS9 Gene Editing
 categories: 
 - biology
 tags: 
@@ -44,3 +44,33 @@ During the acquisition phase (A), cellular invaders such as phage virus inject n
 1. C-NHEJ: canonical NHEJ - ligates or essentially “glues” the broken ends back together
 2. alt‐NHEJ: alternative end joining pathway - one strand of the DNA on either side of the break is resected to repair the lesion
 3. C-NHEJ and alt-NHEJ: both are error‐prone
+4. crRNA and tracrRNA could be combined into a single guide RNA (sgRNA)
+
+# How Do Researchers Exploit CRISPR for Genome Editing?
+## Target and Guide Selection
+1. guide RNA design - the 20‐nucleotide target region of the guide RNA must be adjacent to a PAM site
+2. [CRISPR design tools](http://crispor.tefor.net/): scan the specificity of a target sequence to minimize off‐target effects.
+
+## Generation and Delivery of Components
+1. Cas9 and sgRNAs can be introduced using three different strategies after designing guide RNA: The sgRNA or crRNA and tracrRNA and Cas9 can be expressed as DNA, RNA, or RNA/protein complexes
+
+![Figure 4](https://wol-prod-cdn.literatumonline.com/cms/attachment/18b92fa3-4b31-4b69-94c5-027ce17f189f/bmb21108-fig-0004-m.jpg)
+**Figure 4: Different methods to introduce CRISPR/Cas9 components.**
+CRISPR guides and the Cas9 protein required for genome editing can be introduced into organisms or cells both as DNA plasmids (A), both as RNA molecules (B), or RNA and Protein complexes (RNPs) (C).
+
+### DNA
+1. two plasmids: one encoding the sgRNA and one encoding the Cas9 protein
+2. untranslated regions (UTR): efficient translation of Cas9 mRNA to protein
+3. Promoter: a sequence directly upstream of the transcription start site of the gene and recruits RNA polymerase to initiate transcription - for transcribe the encoded protein (Cas9 plasmid); sgRNA must also be expressed from an appropriate promoter.
+4. the sgRNA is transcribed by RNA polymerase III - ultimate product is RNA
+
+### RNA and RNA/Protein (RNP) Complexes
+1. most efficient and cost‐effective way to generate a desired edit-no need to optimize species‐specific promoters and UTRs
+2. drawback: purifying the Cas9 protein and ordering RNA is costlier
+
+## Identification of Desired Mutation (bottleneck)
+Two different genetic strategies can be used to identify desired mutants: screens and selections.
+
+## Genetic screen
+1. associated phenotype
+2. 
