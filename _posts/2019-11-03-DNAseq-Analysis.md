@@ -1,5 +1,5 @@
 ---
-title: DNAseq-Analysis
+title: DNAseq Analysis
 categories: 
 - code
 tags: 
