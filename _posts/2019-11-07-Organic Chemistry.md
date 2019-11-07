@@ -76,3 +76,61 @@ The dipole moment of a molecule is the vector sum of its bond dipoles.
 ## Molecular Orbitals for Delocalized Systems 离域系统的分子轨道
 
 ## Bond Lengths and Bond Strengths in Alkanes, Alkenes, and Alkynes
+
+# Alkanes and Cycloalkanes
+## The structure of Alkanes
+1. Alkanes: saturated hydrocarbon 饱和烃/ aliphatic hydrocarbons 脂肪烃
+2. Line-angle formula: Methane/ Ethane/ Propane/ Butane/ Pentane/ Hexane/ Heptane/ Octane/ Nonane/ Decane/ Undecane/ Dodecane/ Tridecane/ Tetradecane/ Pentadecane/ Hexadecane/ Heptadecane/ Octadecane/ Nonadecane/ Eicosane
+
+## Constitutional isomerism in alkanes
+Constitutional isomers: same molecular formula but a different connectivity of their atoms.
+
+## Nomenclature of alkanes and the IUPAC system
+1. The IUPAC system <br>
+Alkyl group: R- Methyl (ane - yl)
+2. Common names  <br>
+3C: butane/ isobutane/ pentane <br>
+4C: isopentane/ neopentane <br>
+3. The IUPAC system - a general system of nomenclature <br>
+a. Prefix: tells the number of carbon atoms in the parent chain. <br>
+b. Infix indicates the nature of carbon-carbon bonds in the parent chain <br>
+-an-: all single bonds  <br>
+-en-: one or more double bonds <br>
+-yn-: one or more triple bonds <br>
+c. Suffix indicates the class of compound to which the substance belongs. <br>
+-e: hydrocarbon <br>
+-ol: alcohol <br>
+-al: aldehyde 醛 <br>
+-amine: amine <br>
+-one: ketone 酮 <br>
+-oic acid: carboxylic acid <br>
+
+## Cycloalkanes
+###  Structure and nomenclature
+### Bicycoloalkanes
+
+## Conformations of alkanes and cycloalkanes
+
+## Cis, Trans isomerism in cycloalkanes and bicycloalkanes
+
+##  Physical properties of alkanes and cycloalkanes
+### Dispersion Forces and Interactions Among Alkane Molecules 分散力和相互作用力
+Dispersion forces: Very weak intermolecular forces of attraction resulting from the interaction between temporary induced dipoles. 它是相邻原子或分子的临时诱导偶极子之间的弱静电相互作用
+## Boiling Points, Melting Points, and Density
+1. Alkane: lowest boiling point of all compound of the same molecular weight
+2. Boiling: increase
+3. Melting points: increase
+4. Density: increase
+5. Low-molecular-weight alkanes are gases at room temperature and atmospheric pressure. 低分子量烷烃是室温和大气压下的气体
+6. Higher-molecular-weight alkanes are liquids. Very-high-molecular-weight alkanes are solids 较高分子量的烷烃是液体。 非常高分子量的烷烃是固体
+7. Among a set of alkane constitutional isomers, the least branched isomer generally has the highest boiling point; the most branched isomer generally has the lowest boiling point. 最少支化的异构体通常具有最高的沸点
+8. Constitutional Isomers Have Different Physical Properties C数同，取代基越多，boiling point/ melting;  point/ density decrease; 
+
+## Reactions of alkanes
+###  Oxidation
+### Heats of Combustion and Relative Stability of Alkanes and Cycloalkanes
+As determined by heats of combustion, strain in cycloalkanes varies with ring size.
+Cyclohexane, which has the most common ring size among organic compounds, is strain-free.
+## Sources and importance of alkanes
+Natural gas, Petroleum 石油, Coal 煤
+
