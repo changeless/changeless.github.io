@@ -161,3 +161,10 @@ S: 逆
 ## Thermochemistry and Mechanisms of Acid-Base Reactions
 ## Molecular structure and acidity
 ## Lewis acids and base
+
+# Alkenes: bonding, nomenclature, and properties
+## Structure of alkenes
+## Nomenclature of alkenes
+## Physical properties of alkenes 
+## Naturally occurring alkenes - terpene hydrocarbon
+Terpene: A compound whose carbon skeleton can be divided into two or more units identical with the carbon skeleton of isoprene. 萜烯一般指通式为(C5H8)n的链状或环状烯烃类
