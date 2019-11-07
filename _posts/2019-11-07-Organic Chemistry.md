@@ -134,3 +134,20 @@ Cyclohexane, which has the most common ring size among organic compounds, is str
 ## Sources and importance of alkanes
 Natural gas, Petroleum 石油, Coal 煤
 
+    CH3CH2CH3 + 5O2 = 3CO2 + 4H2O DH0 = -2220 kJ (2530.6 kcal)/mol
+
+# Stereoisomerism and chirality 立体异构和手性
+## Chirality - the handedness of molecules
+Achiral: An object that lacks chirality 
+
+## Stereoisomers
+
+## Naming chiral centers - the R,S system (absolute configuration)
+R,S System: A set of rules for specifying absolute configuration about a chiral center; also called the Cahn-Ingold-Prelog system.
+R: 顺
+S: 逆
+
+## Tying all the terminology together
+![Isomer types](http://www.chem.ucalgary.ca/courses/351/Carey5th/Ch07/isomers_master.gif)
+
+# Optical Activity—How Chirality Is Detected in the Laboratory
