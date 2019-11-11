@@ -168,3 +168,83 @@ S: 逆
 ## Physical properties of alkenes 
 ## Naturally occurring alkenes - terpene hydrocarbon
 Terpene: A compound whose carbon skeleton can be divided into two or more units identical with the carbon skeleton of isoprene. 萜烯一般指通式为(C5H8)n的链状或环状烯烃类
+
+# Reactions of alkenes
+## Reactions of alkenes - an overview
+1. Hydrochlorination (hydrohalogenation)
+2. Hydration
+3. Bromination (halogenation)
+4. Bromo(halo)hydrin formation
+5. Oxymercuration
+6. Hydroboration
+7. Diol formation (oxidation)
+8. Hydrogenation (reduction)
+
+## Organic reactions involving reactive intermediates
+### Reaction coordinate diagram
+1. Reactive intermediate: A high-energy species, formed between two successive reaction steps, that lies in an energy minimum between the two transition states.
+2. Rate-determining step: The step in a multistep reaction sequence that crosses the highest energy barrier.
+
+### Thermodynamics of addition reaction
+triH = BDE(reaction) - BDE(product)
+< 0: exothermic 放热 > 0: 吸热
+
+## Electrophilic Additions
+### Addition of hydrogen halides
+1. Regioselective reaction: An addition or substitution reaction in which one of two or more possible products is formed in preference to all others that might be formed. 键形成或键断裂的一个方向优先于所有其他方向发生的反应。
+2. Markovnikov’s rule: In the addition of HX, H2O, or ROH to an alkene, hydrogen adds to the carbon of the double bond having the greater number of hydrogens.
+3. Carbocation: A species in which a carbon atom has only six electrons in its valence shell and bears a positive charge.
+4. The Inductive Effect: The polarization of the electron density of a covalent bond resulting from the electronegativity of a nearby atom. 诱导效应，即因分子中原子或基团极性（电负性）不同而致使成键电子云在原子链上向某一方向移动的效应。其本质是静电感应。电子云偏向电负性较强的基团或原子（如氟）移动。
+5. 推电子基：(CH3)3C- > (CH3)2CH- > CH3CH2- > CH3- > H
+6. Hyperconjugation: Interaction of electrons in a sigma-bonding orbital with the vacant 2p orbital of an adjacent positively charged carbon.超共轭效应在有机化学中是指一个σ键里的电子（通常是C-H或C-C）和一个临近的半满或全空的非键p轨道或反键的π轨道或全满的π轨道之间的相互作用，该相互作用能够使整个体系变得更稳定。
+7. 对于一个碳正离子来说，只有位于正电荷β位的键上的电子能够通过超共轭来稳定整个碳正离子。
+Mechanism
+
+### Addition of water: acid-catalyzed hydration
+1. Carbocation rearrangements - Carbocation can rearrange
+2. 1,2 Shift: A type of rearrangement in which an atom or a group of atoms moves with its bonding electrons from one atom to an adjacent electron- deficient atom.
+
+### Addition of bromine and chlorine 溴和氯
+1. Stereoselective reaction立体选择性反应: A reaction in which one stereoisomer is formed in preference to all others. A stereoselective reaction may be enantioselective对映选择性 or diastereoselective非对映选择性, as the case may be.
+2. Enantioselective: 对映选择性反应, 一种对映异构体优先于另一种对映异构体形成的反应
+3. Diastereoselective: 非对映选择性反应, 一个非对映异构体优先于另一个非对映异构体形成
+4. Anti stereoselectivity: The addition of atoms or groups of atoms to opposite faces of a carbon-carbon double bond. 
+5. Syn stereoselective/ syn addition: The addition of atoms or groups of atoms to the same face of a carbon- carbon double bond.
+6. 溴鉴定双键Reaction of bromine with an alkene is a particularly useful qualitative test for the presence of a carbon-carbon double bond. If we dissolve bromine in dichloromethane, the solution is red. Both alkenes and dibromoalkanes are colorless. If we now mix a few drops of the bromine solution with an alkene, a dibromoalkane is formed and the red solution becomes colorless. 
+
+### Addition of HOCl and HOBr
+1. -OH adding to the more substituted carbon and -Br adding to the less substituted carbon.
+
+### Oxymercuration-Reduction
+1. Hg(OAc)2, H2O
+2. NaBH4
+加到非末端C
+
+### Hydroboration-Oxidation
+1. BH3
+2. H2O2, NaOH
+3. Regioselective: upon addition of borane to an unsymmetrical alkene, boron be- comes bonded predominantly to the less substituted carbon of the double bond (non-Markovnikov). H加H少
+加到末端C
+
+## Oxidation
+1. Oxidation: add additional O
+2. Reduction: remove additional O
+
+### OsO4—Oxidation of an Alkene to a Glycol
+Add cis-OH to both side of double bond
+
+### Ozone—Cleavage of a Carbon-Carbon   Double Bond (Ozonolysis)
+1. O3
+2. (CH3)2S
+双键断掉变成=O
+
+## Reduction
+H2 (Pd)
+### Mechanism of Catalytic Reduction
+
+### Heats of Hydrogenation and the Relative Stabilities of Alkenes
+
+## Molecules Containing Chiral Centers as Reactants or Products
+### Reaction of Achiral Starting Materials   in an Achiral Environment
+### Reaction of a Chiral Starting Material in an Achiral Environment
+### Reaction of Achiral Starting Materials in a Chiral Environment
