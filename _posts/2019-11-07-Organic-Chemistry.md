@@ -522,3 +522,54 @@ H2O (H+) -- 2-OH
 ## Stereochemistry and Topicity
 ## 13C-NMR
 ## Interpretation of NMR Spectra
+
+# Mass Spectrometry
+
+# An Introduction to Organometallic Compounds
+Organomagnesium compounds are named Grignard reagents
+
+## Organomagnesium and Organolithium Compounds
+1. RMgX: An organomagnesium compound
+2. RLi: An organolithium compound
+
+### Formation and Structure
+1. -Br + Mg (ether) --> -MgBr
+2. -Cl + 2Li (ether) --> -Li + LiCl
+
+### Reaction with Proton Acids
+-MgBr + H2O 
+
+### Reaction with Oxiranes
+1. Open chain reaction
+2. -MgBr (HCl, H2O) -- > -OH
+
+## Lithium Diorganocopper (Gilman) Reagents
+### Formation and Structure
+1. -Li + CuI (pentane)(diethyl ether or THF) 
+
+### Coupling with Organohalogen Compounds
+1. -Br + -CuLi (diethyl ether or THF)
+2. -I + -CuLi
+3. -Br + -MgBr
+4. Ligate chain
+
+### Reaction with Oxiranes
+1. Open Chain
+2. a. (C=C)2CuLi; b. H2O, HCl
+
+## Carbenes and Carbenoids
+Carbenes: A neutral molecule that contains a carbon atom surrounded by only six valence electrons (R2C:)
+
+### Methylene
+1. Photolysis: Cleavage by light.
+2. Thermolysis: Cleavage by heating.
+
+### Dichlorocarbene 
+1. CCl2
+2. CHCl3 + (CH3)3CO-K+  --> Cl2C:
+3. Cl2C: + 环
+4. BrC: + 环
+
+### The Simmons-Smith Reaction
+1.  CH2I2 + Zn(Cu) (diethyl ether) --> ICH2ZnI
+2.  reacted with double bond --> 环
