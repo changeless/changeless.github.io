@@ -248,3 +248,97 @@ H2 (Pd)
 ### Reaction of Achiral Starting Materials   in an Achiral Environment
 ### Reaction of a Chiral Starting Material in an Achiral Environment
 ### Reaction of Achiral Starting Materials in a Chiral Environment
+
+![Alkene reaction](http://leah4sci.com/wp-content/uploads/2013/12/Alkene-Reaction-Overview-Cheat-Sheet.jpg)
+
+# Alkynes
+
+## Structure of Alkynes
+## Nomenclature of Alkynes
+## Physical Properties of Alkynes
+## Acidity of 1-Alkynes
+They are less acidic than water and alcohols but more acidic than alkanes, alkenes, and ammonia.
+
+## Preparation of alkynes
+### Alkylation of acetylide anion with methyl and 1 degree Haloalkanes 卤代烷烃
+Alkylation reaction烷基化反应: Any reaction in which a new carbon-carbon bond to an alkyl group is formed. 将有机物分子碳、氮、氧等原子上引入烷基，合成有机化学品的反应
+
+### Alkynes from alkenes
+1. Dehydrohalogenation脱卤化氢: The removal of HX from a molecule. Alkynes can be made from alkenes through a two-step sequence of halogenation with X2 followed by double dehydrohalogenation. 
+2. elimination reaction 消除反应
+3. Step 1: halo (Br2), CH2Cl2; 
+4. Allene: The compound CH2=C=CH2. 相邻双键
+
+## Electrophilic Addition to Alkynes
+### Addition of Bromine and Chlorine
+### Addition of hydrogen halides
+
+## Hydration of Alkynes to Aldehydes and Ketones
+### Hydroboration-Oxidation
+1. Alkynes react with borane [BH3 or (sia)2BH] followed by basic peroxide to give aldehydes or ketones. 醛或酮
+2. Prevent the second hydroboration step and, in effect, stop the reaction at the alkenylborane stage by using a sterically hindered disubstituted borane. (sia)2BH - non-Markovnikov
+3. Treatment of an alkenylborane with hydrogen peroxide in aqueous sodium hydroxide (a. BH3; b. H2O2, NaOH - BH3变OH - BH3加在H多的C上 - OH加在H多的C上)
+
+### Acid-Catalyzed Hydration
+1. Enol烯醇 (Tautomers互变异构体) - Keto-enol tautomerism
+2. H2O (H2SO4 & HgSO4)
+3. 羟基加在H少的C上
+
+## Reduction of Alkynes
+### Catalytic Reduction
+1. Lindlar catalyst
+
+### Hydroboration-protonolysis
+-BR2 + CH3COOH 
+
+### Dissolving-Metal Reduction
+Na + NH3 -- Tran双键 
+
+## Organic Synthesis
+### Retrosynthetic Analysis
+### Reactions of Functional Groups in Complex Molecules
+
+# Haloalkanes, halogenation, and radical reactions
+## Structure
+## Nomenclature
+## Physical Properties of Haloalkanes
+## Preparation of Haloalkanes by Halogenation of Alkanes
+Substitution
+
+### Regioselectivity
+Br更倾向于加在H少的C上
+
+### Energetics
+
+## Mechanism of Halogenation of Alkanes
+### Formation of Radicals自由基
+### A radical chain mechanism
+1. Chain initiation
+2. Chain propagation
+3. Chain termination
+
+### Energetics of Chain Propagation Steps
+### Regioselectivity of Bromination Versus Chlorination:  Hammond’s Postulate
+1. Hammond’s postulate: 中间态和反应物与产物中能量较高（较不稳定）的一个结构近似。
+2. 在放热反应中，过渡态发生得较早，其结构类似于反应物的结构。
+3. 在吸热反应中，过渡态发生较晚，其结构类似于产物的结构
+
+### Stereochemistry of Radical Halogenation
+
+## Allylic Halogenation
+1. Allylic carbon: A carbon adjacent to a carbon- carbon double bond.
+2. Allylic substitution
+3. NBS
+
+### Mechanism of Allylic Halogenation
+
+### Structure of the Allyl Radical
+
+## Radical Autoxidation
+-OOH: 加在烯丙基上 (反应条件：O2, initiator)
+
+## Radical Addition of HBr to Alkenes
+1. Markovnikov addition (反应条件: no peroxides）
+2. Non-Markovnikov + HBr addition (反应条件: peroxides）
+
+# Nucleophilic Substitution and b-Elimination
