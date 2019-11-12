@@ -499,3 +499,26 @@ H2O (H+) -- 2-OH
 ## Crown Ethers
 
 ## Sulfides
+
+# Infrared spectroscopy
+## Electromagnetic Radiation
+## Molecular Spectroscopy
+## Interpreting Infrared Spectra
+![IR](https://cdn.masterorganicchemistry.com/wp-content/uploads/2016/11/Table-of-IR-absorptions-e1479497782852.png)
+## Solving Infrared Spectral Problems
+
+# Nuclear Magnetic Resonance Spectroscopy
+##  Nuclear Spin States
+## Orientation of Nuclear Spins in an Applied Magnetic Field
+## Nuclear Magnetic “Resonance”
+## An NMR Spectrometer
+## Equivalent Hydrogens
+## Signal Areas
+![signal area](https://www2.chemistry.msu.edu/faculty/reusch/virttxtjml/spectrpy/nmr/Images/hnmr1.gif)
+## Chemical Shift
+## Signal Splitting and the (n + 1) Rule
+![Splitting patterns](http://www.che.hw.ac.uk/teaching/cheak2/B18OA1/Spectra/1HNMR-Help3.gif)
+## The Origins of Signal Splitting
+## Stereochemistry and Topicity
+## 13C-NMR
+## Interpretation of NMR Spectra
