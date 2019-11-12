@@ -405,7 +405,7 @@ Catalyst: pyridine (-OH -> - Cl)
 
 ## Acid-Catalyzed Dehydration of Alcohols
 1. Zaitsev’s rule is followed; that is, the predominant product is the most stable (usually the most highly substituted) alkene. The mechanism is the reverse of acid-catalyzed hydration of an alkene. 与氢少的一起脱氢
-2. Catalyst: H2SO4
+2. Catalyst: H2SO4, H3PO4
 
 ## The Pinacol Rearrangement
 1. 相邻羟基（H2SO4）减去H2O
@@ -423,11 +423,14 @@ Catalyst: pyridine (-OH -> - Cl)
 2. 反应利用二甲基亚砜(DMSO)做氧化剂和有机碱（如三乙胺）在低温下与草酰氯协同作用将一级醇或二级醇氧化成醛或酮的反应。
 3. Condition: a, (COCl)2, DMSO; b, Et3N
 
-### Dess-Martin Oxidation
-
-### Periodic Acid Oxidation of Glycols
+### Dess-Martin Oxidation (DMP)
 1. Dess-Martin periodinane(DMP)
 2. 醛
+
+### Periodic Acid Oxidation of Glycols
+1. oxidative Cleavage of a Glycol
+2. HIO4
+3. Cleavage, 2OH -> 2CHO
 
 ## Thiols (-SH)
 ### Structure
@@ -438,12 +441,61 @@ Catalyst: pyridine (-OH -> - Cl)
 ### Acidity
 ### Oxidation
 1. Thiols are oxidized to give disulfides, sulfinic acids, and sulfonic acids.
-2. First way(disulfides): R-SH [O] — R-S-S-R (condition: I2, O2)
+2. First way(disulfides): R-SH [O] — R-S-S-R (condition: I2, O2) (Oxidation by weak oxidizing
+agents such as O2 and I2)
 3. Second way(sulfinic acids - sulfonic acids): R-SH [O] - R-SOOH [O] - R-SOOOH
 
+# Ethers, Epoxides, and Sulfides
+## Structure of Ethers
+## Nomenclature of Ethers
+## Physical Properties of Ethers
+## Preparation of Ethers
+### Williamson ether synthesis
+A general method for the synthesis of dialkyl ethers by an SN2 reaction between a haloalkane and an alkoxide ion.
 
+### Acid-Catalyzed Dehydration of Alcohols
+2-OH(H2SO4) +  Heat
 
+### Acid-Catalyzed Addition of Alcohols to Alkenes
+Double bond + -OH (acid catalyst)
 
+## Reactions of Ethers
+### Acid-Catalyzed Cleavage by Concentrated HX
 
+### Ether Safety Alert: Flammability and Formation   of Hydroperoxides
+1. Hydroperoxide: A compound containing an -OOH group
 
+## Silyl Ethers as Protecting Groups
+-OH + ClSi(CH3)3 + Et3N
 
+## Epoxides: Structure and Nomenclature
+
+## Synthesis of Epoxides
+### Ethylene Oxide
+Double bond + O2 成环
+
+### Internal Nucleophilic Substitution in Halohydrins
+1. Cl2, H2O
+2. NaOH, H2O
+成环
+
+### Oxidation of Alkenes with Peroxycarboxylic Acids
+Double bond + -COOOH
+
+### Sharpless Asymmetric Epoxidation
+Double bond + (CH3)3C-OOH
+
+## Reactions of Epoxides
+### Acid-Catalyzed Ring Opening
+H2O (H+) -- 2-OH
+
+### Nucleophilic Ring Opening
+1. CH3OH (CH3O-Na+) (S2N) -- OH + OCH3
+2. NH3 -- OH + NH2
+3. LiAH4, H2O -- OH
+
+##  Ethylene Oxide and Epichlorohydrin: Building Blocks in Organic Synthesis
+
+## Crown Ethers
+
+## Sulfides
