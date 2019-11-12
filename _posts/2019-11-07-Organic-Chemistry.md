@@ -342,3 +342,108 @@ Br更倾向于加在H少的C上
 2. Non-Markovnikov + HBr addition (反应条件: peroxides）
 
 # Nucleophilic Substitution and b-Elimination
+## Nucleophilic substitution in haloalkanes
+## Mechanisms of nucleophilic aliphatic substitution
+### SN2 Mechanism
+1. A和B的浓度对反应速率都有影响
+2. 亲核试剂先进攻底物，然后底物脱去离去基团，因为亲核试剂进攻底物这步是决定速率的，而且亲核试剂和底物都参与了这步，所以反应速率是两者都有影响的
+3. SN2反应因为需要亲核试剂的背面进攻所以一般得到的是Walden翻转的产物
+4. steric hindrance空间位阻
+
+### SN1 Mechanism
+1. 其中之一会对反应有影响
+2. 底物先脱去离去基团，中间体是碳正离子，然后亲核试剂才进攻，生成中间体的那步决定速率，亲核试剂不参与，所以速率只由底物决定
+3. 如果有手性的话，SN1反应一般是得到外消旋体
+
+### Key Mechanistic Differences Between SN2 and SN1 Reactions
+如果底物的离去基团容易脱去，或者离去后形成的碳正离子很稳定，那么很容易发生SN1反应，比如多取代的卤代烃，叔丁基溴，酸性条件下的醇等，相反就是SN2，但是一般情况同一反应SN1和SN2可能是同时发生的，只是哪种占优势的问题
+
+## Experimental Evidence for SN1 and SN2 Mechanisms
+### Kinetics and Stereochemistry
+### Structure of the Alkyl Portion of the Haloalkane
+### The Leaving Group
+### The solvent
+### Structure of the Nucleophile
+1. Strong nucleophiles are generally anions: pKa > 11
+2. Moderate nucleophiles are generally neutral, with one or more available lone pairs. pKa around 11
+3. Poor nucleophiles are generally polar protic solvents. pKa < 11
+
+### Skeletal Rearrangement
+
+## Analysis of Several Nucleophilic Substitution Reactions
+
+## b-Elimination
+1. Dehydrohalogenation：Removal of —H and —X from adjacent carbons; a type of b-elimination
+2. Zaitsev’s rule： A rule stating that the major product of a b-elimination reaction is the most stable alkene; that is, it is the alkene with the greatest number of substituents on the carbon-carbon double bond.
+
+## Mechanisms of b-Elimination
+### E1 Mechanism
+1. 离去基团离开以产生碳阳离子;然后通过碱从邻近的碳原子上取出质子以产生产物烯烃。单分子消去，即影响反应速率的只有反应物有机物一种，反应过程中会先形成中间体，碳正离子，然后再快速失去1个H+，得到产物，所以碳正离子稳定的中间体，得到的是主要产物。
+2. 碳正离子的形成一般是酸催化，亲核试剂一般具有较强的碱性，所以如果是酸催化、或碱性不太强时，一般是E1
+3. 如果能形成较稳定的三级碳正离子，一般也会是E1
+4. 单分子的，因为只有卤代烷浓度影响反应速率
+5. Primary: 只有一个取代基不发生E1
+6. Secondary, Tertiary: Main reaction with week bases such as H2O, ROH
+
+### E2 Mechanism
+1. 卤素同时离开H原子被碱从相邻的碳原子上除去以产生产物烯烃。双分子消去，即影响反应速率的有2个分子，有机物和亲核试剂，反应过程中没有中间体生成，只出现1个过渡态，亲核试剂的进攻和H+的离去是同时发生的。
+2. 如果是碱性很强时，或者不能形成稳定的碳正离子的，一般是E2
+3. Primary: 只有一个取代基只发生E2
+
+# Alcohols
+## Structure and nomenclature of alcohols 
+## Physical Properties of Alcohols
+## Acidity and Basicity of Alcohols
+## Reaction of Alcohols with Active Metals
+H2
+## Conversion of Alcohols to Haloalkanes and Sulfonates
+### Reaction with HCl, HBr, and HI
+### Reaction with Phosphorous Tribromide (PBr3)
+### Reaction with Thionyl Chloride and Thionyl Bromide (SOCl2)
+### Formation of Aryl and Alkyl Sulfonates
+Catalyst: pyridine (-OH -> - Cl)
+
+## Acid-Catalyzed Dehydration of Alcohols
+1. Zaitsev’s rule is followed; that is, the predominant product is the most stable (usually the most highly substituted) alkene. The mechanism is the reverse of acid-catalyzed hydration of an alkene. 与氢少的一起脱氢
+2. Catalyst: H2SO4
+
+## The Pinacol Rearrangement
+1. 相邻羟基（H2SO4）减去H2O
+2. pinacol rearrangement
+
+## Oxidation of Alcohols
+### Chromic Acid 铬酸 H2CrO4
+跳过醛基直接变成酸
+
+### Pyridinium Chlorochromate (PCC)
+防止进一步氧化
+
+### Swern Oxidation 斯文氧化反应
+1. DMSO: Dimethyl sulfoxide
+2. 反应利用二甲基亚砜(DMSO)做氧化剂和有机碱（如三乙胺）在低温下与草酰氯协同作用将一级醇或二级醇氧化成醛或酮的反应。
+3. Condition: a, (COCl)2, DMSO; b, Et3N
+
+### Dess-Martin Oxidation
+
+### Periodic Acid Oxidation of Glycols
+1. Dess-Martin periodinane(DMP)
+2. 醛
+
+## Thiols (-SH)
+### Structure
+### Nomenclature
+### Physical Properties
+### Thiols in Biological Molecules
+### Preparation
+### Acidity
+### Oxidation
+1. Thiols are oxidized to give disulfides, sulfinic acids, and sulfonic acids.
+2. First way(disulfides): R-SH [O] — R-S-S-R (condition: I2, O2)
+3. Second way(sulfinic acids - sulfonic acids): R-SH [O] - R-SOOH [O] - R-SOOOH
+
+
+
+
+
+
+
