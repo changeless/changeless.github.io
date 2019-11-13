@@ -835,6 +835,9 @@ ester (R'Li, H2O, HCl)
 ## UV-Visible Spectroscopy
 ### Introduction
 ### The Origin of Transitions Between Electronic Energy Levels
+LOMO / HOMO
+- high LUMO, high HOMO, Nucleophilic
+- Low LUMO, low HOMO, Electrophilic
 
 ## Pericyclic Reaction Theory
 ### Frontier Molecular Orbital Theory (FMOT)
