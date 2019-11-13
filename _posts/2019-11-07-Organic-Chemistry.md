@@ -919,4 +919,47 @@ Benzylic position: An sp3 hybridized carbon bonded to a benzene ring.
 Ph-Ether + H2 (Pd/C) --> C-OH + Ph
 
 # Reactions of Benzene and Its Derivatives
+1. Halogenation: Cl2 (FeCl3, CH3COOH)
+2. Nitration: HNO3 (H2SO4)
+3. Sulfonation: SO3 (H2SO4)
+4. Alkylation: RX (AlX3)
+5. Acylation: RCOX (AlX3) - Ph-COR
+
+## Electrophilic Aromatic Substitution
+### Chlorination and Bromination
+### Nitration and Sulfonation
+1. Ph-NH2-COOH + H2 (Ni): only reduct NH2 (not COOH)
+2. (Fe, HCl, C2H5OH, H2O) (NaOH, H2O)
+
+### Friedel-Crafts Alkylation and Acylation
+1. No reaction (Ph-Y): Y- CHO, COR, COOH
+2. Add carbon chain: Cl-CO-Chain (AlCl3) --> (N2H4, KOH, diethylene glycol) --> eliminate the =O
+
+### Other Electrophilic Aromatic Alkylations
+1. C-C=C (H3PO4) - H少的C链接到苯环
+3. C=C(AlCl3)
+4. -HO (H3PO4) --> add chain
+
+## Disubstitution and Polysubstitution
+###  Effects of a Substituent Group on Further Substitution
+1. Activating group
+2. Deactivating group
+3. (Ortho-Para Directing) Strongly activating: -NH2 -NHR -NR2 -OH -OR
+4. (Ortho-Para Directing) Moderately activating: -NHCOR -NHCOAr -OOCR -OOCAr
+5. (Ortho-Para Directing) Weakly activating: -R, -Ph
+6. (Ortho-Para Directing) Weakly deactivating: -E, -Cl, -Br, -I
+7. (Meta Directing) Moderately deactivating: -CHO, -COR, -COOH, -COOR, -CONH2, -C'''N
+8. (Meta Directing) Strongly deactivating: -NO2, -NH3, -CF3, -CCl3
+
+### Theory of Directing Effects
+### Theory of Activating-Deactivating Effects
+
+## Nucleophilic Aromatic Substitution
+### Nucleophilic Substitution by Way of a Benzyne Intermediate
+1. -Cl + NaOH (H2O) --> -O-Na+
+2. Ph-Cl-CH3 (o) (NaOH, heat, pressure / HCl, H2O) --> o-OH, m-OH
+3. Ph-Ch3-Cl (p) + NaNH2 (NH3) - p-NH3 + m-NH3
+
+### Nucleophilic Substitution by Addition-Elimination
+
 # Amines
