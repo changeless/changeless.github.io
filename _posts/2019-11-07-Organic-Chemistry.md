@@ -1001,3 +1001,5 @@ Ph-Ether + H2 (Pd/C) --> C-OH + Ph
 
 
 ## Cope Elimination
+
+![cheat sheet](http://leah4sci.com/wp-content/uploads/2015/04/Common-Aromatic-Compounds-Cheat-Sheet-Study-Guide.jpg)
