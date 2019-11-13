@@ -734,6 +734,7 @@ HOOC-C-COOH
 ### Amides and Imides
 1. Lactam: A cyclic amide
 2. Imide: A functional group in which two acyl groups, RCO- or ArCO-, are bonded to a nitrogen atom.
+3. Acidity of imides: +NaOH
 
 ### Nitriles
 C'''N
