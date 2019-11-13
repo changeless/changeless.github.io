@@ -573,3 +573,109 @@ Carbenes: A neutral molecule that contains a carbon atom surrounded by only six 
 ### The Simmons-Smith Reaction
 1.  CH2I2 + Zn(Cu) (diethyl ether) --> ICH2ZnI
 2.  reacted with double bond --> 环
+
+# Aldehydes and Ketones
+## Structure and Bonding
+## Nomenclature
+## Physical Properties
+## Reactions
+Nucleophilic acyl addition
+
+## Addition of Carbon Nucleophiles
+### Addition of Grignard Reagents
+1. -MgBr + CHO (ether) --> MgBr is added to O
+2. HCl, H2O --> MgBr to OH
+3. Addition to Formaldehyde Gives a Primary Alcohol
+4. Addition to an Aldehyde (Except Formaldehyde) Gives a Secondary Alcohol
+5. Addition to a Ketone Gives a Tertiary Alcohol
+
+### Addition of Organolithium Compounds
+-Li = -MgBr
+
+### Addition of Anions of Terminal Alkynes 末端炔烃的阴离子
+
+### Addition of Hydrogen Cyanide (different)
+1. H is added to O
+2. Cyanohydrin: A molecule containing an !OH group and a !CN group bonded to the same carbon.
+3. -C’’’N - Cyanide ion 氰离子
+3. Cyanohydrin (enzyme catalyst): back to -CHO + C'''N
+4. Cyanohydrin (acid catalyst): double bond & C'''N  (eliminate reaction)
+5. Cyanohydrin (H2): NH2
+
+## The Wittig Reaction
+1. Ylide: A neutral molecule with positive and negative charges on adjacent atoms.
+2. Ph3P(+)-CH2（-）
+3. 把Ph3P带的基团和=O交换
+4. (MeO)3P:
+5. a-bromoester
+6. a-bromoketone取代
+
+## Addition of Oxygen Nucleophiles
+### Addition of Water: Formation of Carbonyl Hydrates
+1. condition: acid or base
+2. Formaldehyde are willing to act with water
+
+### Addition of Alcohols: Formation of Acetals
+
+### Acetals as Carbonyl-Protecting Groups
+1. OH-CC-OH  (H+)
+2. Mg,ether / C6H5CHO
+3. HCl, H2O 还原
+
+### Tetrahydropyranyl Ethers: Protecting an Alcohol as an Acetal
+1. Dihydropyran (H+)
+
+## Addition of Nitrogen Nucleophiles
+### Ammonia and Its Derivatives
+-NH2 + =O (H+) --> =NH2
+
+### Hydrazine and Related Compounds
+
+## Keto-Enol Tautomerism
+### Acidity of a-Hydrogens
+### The Position of Equilibrium in Keto-Enol Tautomerism
+
+## Oxidation
+### Oxidation of Aldehydes
+1. H2CrO4
+2. KMnO4
+3. AgO2 (THF, H2O, NaOH) (HCl, H2O)
+4. Tollens’ reagent (another form of  Ag(I))
+5. Ag+ + NH3- (NH3, H2O) --> Ag(NH3)2+
+6. O2
+7. Pinnick conditions (NaClO2, NaH2PO4, and 2-methyl-2-butene)
+
+### Oxidation of Ketones
+Cyclohexanone <-> Cyclohexanone (HNO3) -> HOOC-CCCC-COOH
+
+## Reduction
+1. -CHO --> -OH or C
+2. =O --> -OH or C
+
+### Metal Hydride Reductions
+1. NaBH4 (methanol) / H2O --> -OH
+2. LiAlH4 (ether) / H+, OH-, J2O --> -OH
+
+### Catalytic Reduction
+H2 (Pt/Ni)
+
+### Selective Reduction
+1. LiAlH4/ H2O --> Protect double bond
+2. H2 (Rh) --> Protect =O
+
+### Reductive Amination
+A method of preparing substituted amines by treating an aldehyde or a ketone with an amine in the presence of or followed by a reducing agent.
+
+### Reduction of a Carbonyl Group to a Methylene Group
+1. 直接去掉=O
+2. Clemmensen reduction: Reduction of the C=O group of an aldehyde or a ketone to a CH2 group using Zn(Hg) and HCl
+3. Wolff-Kishner reduction: Reduction of the C=O group of an aldehyde or a ketone to a CH2 group using hydrazine and base.
+4. H2NNH2 (KOH, diethylene glycol(reflux))
+
+## Reactions at an a-Carbon
+### Racemization
+### Deuterium Exchange
+D2O (D+ or OD-)
+
+### a-Halogenation
+Br2 (CH3COOH)
