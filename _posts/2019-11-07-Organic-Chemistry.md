@@ -821,3 +821,102 @@ ester (R'Li, H2O, HCl)
 ### Nitriles
 1. C'''N (1. LiAlH4 2. H2O) --> CH2NH2 
 2. Not reduce the double bond
+
+# Enolate Anions and Enamines
+
+# Dienes, Conjugated Systems, and Pericyclic Reactions
+## Stability of conjugated dienes二烯
+1. Conjugated/ Cumulated
+
+## Electrophilic Addition to Conjugated Dienes
+### 1,2-Addition and 1,4-Addition
+### Kinetic Versus Thermodynamic Control of Electrophilic Addition
+
+## UV-Visible Spectroscopy
+### Introduction
+### The Origin of Transitions Between Electronic Energy Levels
+
+## Pericyclic Reaction Theory
+### Frontier Molecular Orbital Theory (FMOT)
+1. 4+2 / 2+2
+2. Suprafacial: When the same face of a p bond performs a reaction.
+3. Antarafacial: When the opposite faces of a p bond perform a reaction.
+
+## The Diels-Alder Reaction
+###  Diene Must Be Able to Assume an s-Cis Conformation
+###  The Effect of Substituents on Rate
+###  Diels-Alder Reactions Can Be Used to Form Bicyclic Systems
+### The Configuration of the Dienophile Is Retained
+### The Configuration at the Diene Is Retained
+### Exploiting the Stereochemistry of the Diels-Alder Reaction
+
+## Sigmatropic Shifts
+###  The Claisen Rearrangement
+-O-C-C=C --> -OH + -C-C=C
+
+### The Cope Rearrangement
+### Stereochemistry of the Cope Rearrangement
+
+# Benzene and the Concept of Aromaticity
+## The Structure of Benzene
+### Kekulé’s Model of Benzene
+### The Molecular Orbital Model of Benzene
+### The Resonance Model of Benzene
+1. H2(Ni)
+
+## The Concept of Aromaticity
+### The Hückel Criteria for Aromaticity
+### Aromatic Hydrocarbons
+### Antiaromatic Hydrocarbons
+### Heterocyclic Aromatic Compounds
+### Aromatic Hydrocarbon Ions
+
+## Nomenclature
+### Monosubstituted Benzenes
+1. Benzyl group: Ph-CH2- = Bn-
+2. Phenyl group: Ph-
+
+### Disubstituted Benzenes
+1, p, m, p
+
+### Polysubstituted Benzenes
+
+## Phenols
+### Structure and Nomenclature
+### Acidity of Phenols
+### Acid-Base Reactions of Phenols
+1. Phenol + NaOH
+2. Phenol + NaHCO3
+
+### Preparation of Alkyl-Aryl Ethers
+1. -OH + -Cl (NaOH, H2O, CH2Cl2, Bu4N1Br–) - ether
+2. -OH + -O(SOO)O- (NaOH, H2O, CH2Cl2, Bu4N1Br–) - ether
+3. ether + HI
+
+### Kolbe Carboxylation: Synthesis of Salicylic Acid
+1. CO2 --> Ph-OH-COOH
+
+### Oxidation to Quinones
+1. Ph-OH (K2CrO4, H2SO4)
+2. Back (Na2S2O4, H2O) - reduction
+3. CrO3
+4. Ag+
+
+## Reactions at a Benzylic Position
+Benzylic position: An sp3 hybridized carbon bonded to a benzene ring.
+
+###  Oxidation
+1. Ph-CH3(H2CrO4) -- -COOH
+2. Ph-C-(CH3)3 -- No reaction
+3. V2O5
+
+### Halogenation
+1. Cl2 (heat or light)
+2. NBS ( (PhCO2)2, CCl4)
+3. halo加到 H少的C上 
+
+### Hydrogenolysis of Benzyl Ethers
+Ph-Ether + H2 (Pd/C) --> C-OH + Ph
+
+# Reactions of Benzene and Its Derivatives
+# Amines
