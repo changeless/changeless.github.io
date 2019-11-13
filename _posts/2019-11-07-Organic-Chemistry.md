@@ -963,3 +963,41 @@ Ph-Ether + H2 (Pd/C) --> C-OH + Ph
 ### Nucleophilic Substitution by Addition-Elimination
 
 # Amines
+## Structure and Classification
+1. Aliphatic amine: an amine in which nitrogen is bonded only to alkyl groups
+2. Aromatic amine: an amine in which nitrogen is bonded to one or more aryl groups.
+3. Heterocyclic amine: an amine in which nitrogen is one of the atoms of a ring 
+4. Heterocyclic aromatic amine: in an aromatic ring
+4. Alkaloid生物碱: a basic nitrogen-containing compound of plant origin, many of which are physiologically active when administered to humans. 
+
+## Nomenclature
+
+## Chirality of Amines and Quaternary Ammonium Ions
+## Physical Properties
+## Basicity
+1. Basicity of Aliphatic Amines
+2. Basicity of Aromatic Amines
+3. Basicity of Heterocyclic Aromatic Amines (Image)
+
+## Reactions with Acids
+-N-2C
+
+## Preparation
+### Alkylation of Ammonia and Amines
+### Alkylation of Azide Ion
+1. Alkylation of Azide ion Followed by Reduction
+2. COC  (K+N3- / H2O) --> N3 / OH (LiAlH4 / H2O)  --> NH2 / OH
+
+## Reaction with Nitrous Acid
+### Tertiary Aliphatic Amines
+
+### Tertiary Aromatic Amines
+(CH3)2N-Ph (NaNO2, HCl, 0–5°C /  NaOH, H2O
+) --> (CH3)2N-Ph-N=O
+
+### Secondary Aliphatic and Aromatic Amines
+1. Formation of N-Nitrosamines from Secondary Amines
+2. -N-H + HNO2 --> N-N=O
+
+
+## Cope Elimination
