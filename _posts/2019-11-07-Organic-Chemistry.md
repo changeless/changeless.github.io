@@ -679,3 +679,144 @@ D2O (D+ or OD-)
 
 ### a-Halogenation
 Br2 (CH3COOH)
+
+# Carboxylic Acids
+## Structure
+## Nomenclature
+## Physical Properties
+1. Hydrophilic: water loving
+2. Hydrophobic: water hating
+
+## Acidity
+### Acid Ionization Constants
+### Reaction with Bases
+1. NaOH (H2O)
+2. NH3 (H2O)
+
+## Preparation of Carboxylic Acids
+1. -MgBr  +  O=C=O (HCl, H2O)
+2. CO + 2H2 (catalyst)--> CH3OH (CO, rhodium(III),
+HI, H2O) --> CH3COOH
+
+## Reduction
+### Lithium Aluminum Hydride
+1. LIAlH4, ether
+2. H2O
+
+### Selective Reduction of Other Functional Groups
+1. Pt: only =O not -COOH
+2. NaBH4, H2O: same
+
+## Esterification
+### Fischer Esterification
+The process of forming an ester by heating at reflux a carboxylic acid and an alcohol in the presence of an acid catalyst, commonly H2SO4, ArSO3H, or HCl.
+
+### Formation of Methyl Esters Using Diazomethane
+RCOOH + CH2N2 (ether) --> ester + N2
+
+### Conversion to Acid Chlorides
+1. -COX
+2. -COOH + SOCl2 (ether)
+
+## Decarboxylation
+### b-Ketoacids
+1. RCOOH (decarboxylation, heat) --> RH + CO2
+2. b-Ketoacids (warm)
+
+### Malonic Acid and Substituted Malonic Acids
+HOOC-C-COOH 
+
+# Functional Derivatives of Carboxylic Acids
+## Structure and Nomenclature
+### Acid Halides
+### Acid Anhydrides
+### Ester
+### Amides and Imides
+1. Lactam: A cyclic amide
+2. Imide: A functional group in which two acyl groups, RCO- or ArCO-, are bonded to a nitrogen atom.
+
+### Nitriles
+C'''N
+
+## Acidity of Amides, Imides, and Sulfonamides
+
+## Characteristic Reactions
+### Nucleophilic Acyl Addition
+1. acid condition
+2. basic condition
+
+### Nucleophilic Acyl Substitution
+### Relative Reactivity
+Increasing reactivity: Amide < Ester < Amhydride < Acid Halide 
+
+### Catalyst 
+
+## Reaction with Water: Hydrolysis
+### Acid Chlorides
+-COCl + H2O --> -COOH
+
+### Acid Anhydrides
++ H2O
+
+### Esters
+Saponification: Hydrolysis of an ester in aqueous NaOH or KOH to an alcohol and the sodium or potassium salt of a carboxylic acid.
+
+### Amides
+1. acid: -CONH2 + H2O + HCl (H2O/heat)
+2. basic
+
+### Nitriles
+1. acid: -C'''N + H2O + H2SO4 (H2O / heat) --> -COOH
+2. Basic: + H2O + NaOH (H2O / heat) --> (HCl / H2O) --> -COOH
+3. C-Cl (KCN / ethanol, water) --> -C'''N (H2SO4, H2O, heat) --> -COOH
+4. -CHO (HCN, KCN / ethanol, water) --> -C(OH)CN (H2SO4, H2O / heat) --> -C(OH)COOH
+
+## Reaction with Alcohols
+### Acid Halides
+1. ester
+
+### Acid Anhydrides
+1. one ester + one acid
+
+### Ester
+1. Transesterification: Exchange of the -OR or -OAr group of an ester for another -OR or -OAr group.
+2. HCl
+
+### Amide
+
+##  Reactions with Ammonia and Amines
+### Acid Halides
+-COCl + NH3 --> - CONH2
+
+### Acid Anhydrides
+### Esters
+### Amide
+
+## Reaction of Acid Chlorides with Salts of Carboxylic Acids
+-COCl + -COO-Na+ --> COCCO
+
+## Interconversion of Functional Derivatives
+
+## Reactions with Organometallic Compounds
+### Grignard Reagents
+ester + R2MgX (H2O / HCl) --> -OH-R-R
+
+### Organolithium Compounds
+ester (R'Li, H2O, HCl) 
+
+### Lithium Diorganocuprates
+-COCl + (CH3)2CuLi (H2O) --> ligate
+
+## Reduction
+### Ester
+1. LiAlH4, ether / H2O, HCl --> back to -OH and -OH
+2. NaBH4: only for =O , not for ester
+3. Diisobutylaluminum hydride (DIBALH) / H2O, HCl -- > -CHO, -OH
+
+### Amide
+1. -CONH2: LiAlH4, H2O: no =O
+2. -CONHME
+
+### Nitriles
+1. C'''N (1. LiAlH4 2. H2O) --> CH2NH2 
+2. Not reduce the double bond
