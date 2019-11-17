@@ -8,8 +8,6 @@ tags:
 
 [Variant Call Format](http://gatkforums.broadinstitute.org/discussion/1268/how-should-i-interpret-vcf-files-produced-by-the-gatk): Used to record variants (SNP/InDel)
 
-<span style="color:red">*need update*</span>
-
 ## Annotation
 Begin with `#` <br>
 主要包括vcf文件版本、FORMAT、INFO、参考基因组以及执行程序等信息
