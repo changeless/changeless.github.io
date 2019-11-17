@@ -116,4 +116,5 @@ Begin with `#` <br>
 2. [VCF文件格式解析](https://www.jianshu.com/p/13f162636164)
 3. [VCF格式的学习及对VCF文件的统计](https://www.jianshu.com/p/38f734ae47f5)
 4. [NON_REF in gvcf](https://gatkforums.broadinstitute.org/gatk/discussion/4216/non-ref-in-gvcf)
+5. [基于GATK检测基因组SNP和indel](https://www.jianshu.com/p/38f734ae47f5)
 
