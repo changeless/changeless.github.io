@@ -40,20 +40,20 @@ Begin with `#` <br>
         
     **b. `DP`: reads coverage after filtering**
     
-    **c. `QD`: Variant call confidence normalized by depth of sample reads supporting a variant
+    **c. `QD`: Variant call confidence normalized by depth of sample reads supporting a variant**
     
-    **d. `MQ`: 表示覆盖序列质量的均方值RMS Mapping Quality
+    **d. `MQ`: 表示覆盖序列质量的均方值RMS Mapping Quality**
     
-    **e. `FQ`：phred值关于所有样本相似的可能性
+    **e. `FQ`：phred值关于所有样本相似的可能性**
     
-    **f. `AC`，`AF` 和 `AN`：AC(Allele Count) 表示该Allele的数目；AF(Allele Frequency) 表示Allele的频率； AN(Allele Number) 表示Allele的总数目。<br>
+    **f. `AC`，`AF` 和 `AN`：AC(Allele Count) 表示该Allele的数目；AF(Allele Frequency) 表示Allele的频率； AN(Allele Number) 表示Allele的总数目。**<br>
      对于1个diploid sample而言：则基因型 0/1 表示sample为杂合子，Allele数为1(双倍体的sample在该位点只有1个等位基因发生了突变)，Allele的频率为0.5(双倍体的sample在该位点只有50%的等位基因发生了突变)，总的Allele为2； 基因型 1/1 则表示sample为纯合的，Allele数为2，Allele的频率为1，总的Allele为2。
      
-     **g. `MLEAC`：Maximum likelihood expectation (MLE) for the allele counts (not necessarily the same as the AC), for each ALT allele, in the same order as listed
+     **g. `MLEAC`：Maximum likelihood expectation (MLE) for the allele counts (not necessarily the same as the AC), for each ALT allele, in the same order as listed**
      
-     **h.  `MLEAF`：Maximum likelihood expectation (MLE) for the allele frequency (not necessarily the same as the AF), for each ALT allele, in the same order as listed
+     **h.  `MLEAF`：Maximum likelihood expectation (MLE) for the allele frequency (not necessarily the same as the AF), for each ALT allele, in the same order as listed**
      
-     **i. `BaseQRankSum`: 比较支持变异的碱基和支持参考基因组的碱基的质量，负值表示支持变异的碱基质量值不及支持参考基因组的, 正值则相反，支持变异的质量值好于参考基因组的。0表示两者无明显差异。
+     **i. `BaseQRankSum`: 比较支持变异的碱基和支持参考基因组的碱基的质量，负值表示支持变异的碱基质量值不及支持参考基因组的, 正值则相反，支持变异的质量值好于参考基因组的。0表示两者无明显差异。**
     
     **j. `FS`: FisherStrand**<br>
         1. The p-value of the Fhred format obtained by Fisher's exact test to detect chain skew.<br>
