@@ -19,6 +19,8 @@ Begin with `#`
 3. ID: variant's ID. Can be found in `dbSNP` or use `.` if it cannot be found.
 4. REF: allele in ref `T`
 5. ALT: allele in variant `A`
+`<NON_REF>`: provides us with a way to represent the possibility of having a non-reference allele at this site, and to indicate our confidence either way.
+
 6. QUAL: quality of vairant, Phred. Low value means higher possibility of variant `7766.77`
 7. FILTER: `Pass` means this site can be considered as a variant
 8. INFO `AC=2;AF=1.00;AN=2;DP=199;ExcessHet=3.0103;FS=0.000;MLEAC=2;MLEAF=1.00;MQ=49.78;QD=32.91;SOR=0.904`
