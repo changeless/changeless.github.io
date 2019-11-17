@@ -69,9 +69,9 @@ Begin with `#` <br>
         4. Negative value: near the ends<br>
         **5. Filter: suggest to keep sites with ReadPosRankSum > -1.65~-3.0**<br>
     
-    **l. `ReadPosRankSum`: 检测变异位点是否有位置偏好性（是否存在于序列末端，此时往往容易出错）。最佳值为0，表示变异与其在序列上的位置无关。负值表示变异位点更容易在末端出现，正值表示参考基因组中的等位基因更容易在末端出现。
+    **l. `ReadPosRankSum`: 检测变异位点是否有位置偏好性（是否存在于序列末端，此时往往容易出错）。最佳值为0，表示变异与其在序列上的位置无关。负值表示变异位点更容易在末端出现，正值表示参考基因组中的等位基因更容易在末端出现。**
     
-    **m.  `xcessHet`: 检测这些样本的相关性，与InbreedingCoeff相似，值越大越可能是错误。
+    **m.  `xcessHet`: 检测这些样本的相关性，与InbreedingCoeff相似，值越大越可能是错误。**
         
     **n. MQRankSum**<br>
         1. measure the mapping quality between reads of alternative allele and reference allele.<br>
