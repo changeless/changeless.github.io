@@ -6,8 +6,6 @@ tags:
 - CRISPR
 ---
 
-[Molecular biology at the cutting edge: A review on CRISPR/CAS9 gene editing for undergraduates](https://www.ncbi.nlm.nih.gov/pubmed/29381252)
-
 # CRISPR: A Bacterial and Archeal Immune System Adapted for Eukaryotic Gene Editing
 
 ## Adaptive Immunity in Bacteria and Archea
@@ -98,3 +96,9 @@ Through attaching different protein domains to dCas9, this modified version of t
 # Ethical Implications for CRISPR/Cas9 Genome Editing In Humans
 1. this technology has the potential to treat and cure diseases by editing the DNA associated with a particular disease before a baby is born.
 2. non‐viable triploid embryos
+
+**Need to update later**
+
+Reference:
+1. [Molecular biology at the cutting edge: A review on CRISPR/CAS9 gene editing for undergraduates](https://www.ncbi.nlm.nih.gov/pubmed/29381252)
+2. [详解CRISPR/Cas系统与其应用](https://zhuanlan.zhihu.com/p/29204199)
