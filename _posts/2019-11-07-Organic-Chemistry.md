@@ -593,6 +593,9 @@ Nucleophilic acyl addition
 -Li = -MgBr
 
 ### Addition of Anions of Terminal Alkynes 末端炔烃的阴离子
+H-C'''C-Na (HCl, H2O) - C-OH-C'''CH
+1. H2O, H2SO4, HgSO4 近端C加上=O
+2. (sia)2BH, H2O2, NaOH 远端C加上=O
 
 ### Addition of Hydrogen Cyanide (different)
 1. H is added to O
@@ -600,13 +603,14 @@ Nucleophilic acyl addition
 3. -C’’’N - Cyanide ion 氰离子
 3. Cyanohydrin (enzyme catalyst): back to -CHO + C'''N
 4. Cyanohydrin (acid catalyst): double bond & C'''N  (eliminate reaction)
-5. Cyanohydrin (H2): NH2
+5. acid catalyst: elimination reaction
+6. Cyanohydrin (H2): NH2
 
 ## The Wittig Reaction
 1. Ylide: A neutral molecule with positive and negative charges on adjacent atoms.
 2. Ph3P(+)-CH2（-）
 3. 把Ph3P带的基团和=O交换
-4. (MeO)3P:
+4. (MeO)3P: + Br-R --> (MeO)2-P=O-R
 5. a-bromoester
 6. a-bromoketone取代
 
@@ -628,11 +632,15 @@ Nucleophilic acyl addition
 ## Addition of Nitrogen Nucleophiles
 ### Ammonia and Its Derivatives
 -NH2 + =O (H+) --> =NH2
+Secondary NH + C=O  - leads to double bond formation
 
 ### Hydrazine and Related Compounds
+=O + H2NNH2 --> =NNH2
 
 ## Keto-Enol Tautomerism
 ### Acidity of a-Hydrogens
+a-Hydrogens and a-Carbon
+
 ### The Position of Equilibrium in Keto-Enol Tautomerism
 
 ## Oxidation
@@ -643,7 +651,7 @@ Nucleophilic acyl addition
 4. Tollens’ reagent (another form of  Ag(I))
 5. Ag+ + NH3- (NH3, H2O) --> Ag(NH3)2+
 6. O2
-7. Pinnick conditions (NaClO2, NaH2PO4, and 2-methyl-2-butene)
+7. Pinnick conditions (NaClO2, NaH2PO4, and 2-methyl-2-butene): only work for -CHO not -OH
 
 ### Oxidation of Ketones
 Cyclohexanone <-> Cyclohexanone (HNO3) -> HOOC-CCCC-COOH
@@ -654,23 +662,23 @@ Cyclohexanone <-> Cyclohexanone (HNO3) -> HOOC-CCCC-COOH
 
 ### Metal Hydride Reductions
 1. NaBH4 (methanol) / H2O --> -OH
-2. LiAlH4 (ether) / H+, OH-, J2O --> -OH
+2. LiAlH4 (ether) / H+, OH-, H2O --> -OH
 
 ### Catalytic Reduction
 H2 (Pt/Ni)
 
 ### Selective Reduction
-1. LiAlH4/ H2O --> Protect double bond
+1. LiAlH4/ H2O (LAH) --> Protect double bond
 2. H2 (Rh) --> Protect =O
 
 ### Reductive Amination
 A method of preparing substituted amines by treating an aldehyde or a ketone with an amine in the presence of or followed by a reducing agent.
+R1=O + R2-NH2 --> R1=N-R2
 
 ### Reduction of a Carbonyl Group to a Methylene Group
 1. 直接去掉=O
-2. Clemmensen reduction: Reduction of the C=O group of an aldehyde or a ketone to a CH2 group using Zn(Hg) and HCl
-3. Wolff-Kishner reduction: Reduction of the C=O group of an aldehyde or a ketone to a CH2 group using hydrazine and base.
-4. H2NNH2 (KOH, diethylene glycol(reflux))
+2. Zn(Hg), HCl: emmensen reduction: Reduction of the C=O group of an aldehyde or a ketone to a CH2 group using Zn(Hg) and HCl
+3. H2NNH2 (KOH, diethylene glycol(reflux)): Wolff-Kishner reduction: Reduction of the C=O group of an aldehyde or a ketone to a CH2 group using hydrazine and base.
 
 ## Reactions at an a-Carbon
 ### Racemization
