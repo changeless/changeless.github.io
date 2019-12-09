@@ -831,6 +831,67 @@ ester (R'Li, H2O, HCl)
 2. Not reduce the double bond
 
 # Enolate Anions and Enamines
+## Formation and Reaction of  Enolate Anions: an Overview
+C=C-O(-): reaction at oxygen or reaction at carbon
+
+## Aldol Reaction
+### Mechanisms
+2C-CHO
+
+### Crossed and intramolecular aldol reactions
+1. 我也不知道为什么但是看起来好像是C数多的保持不变，C数少的加成上去
+2. =O  + CH3NO2 (NaOH)
+3. Form smaller ring - but 6 > 5
+
+### Retrosynthetic Analysis
+1. Find a-C (the C near the C=O) and b-C (C-OH)
+2. Then, CUT!
+
+## Claisen and Dieckmann Condensation
+### Claisen Condensation
+2CH3-C=OEt (1. EtO-Na+ 2. H2O, HCl) --> CH3-C=O-CH2-COEt + EtOH
+
+### Dieckmann Condensation
+### Crossed Claisen Condensation
+### Retrosynthetic Analysis
+
+### Hydrolysis  and  Decarboxylation of b-Ketoesters
+1. Claisen condensation
+2. Saponification followed by acidification (-OOEt [NaOH, H2O, heat/ H2O, HCl] --> -OOH)
+3. Decarboxylation (heat) --> leave the part with ketone + CO2
+
+## Claisen and Aldol Condesations in the Biological World
+
+## Enamines
+### Alkylation of Enamines
+Cyclohexanone double C carbon + -Br (elongate the C chain)
+
+### Acylation of Enamines
+-C=O-Cl
+
+### Retrosynthetic Analysis
+
+## Acetoacetic Ester Synthesis
+###  Five Sequential Reactions
+### Retrosynthetic Analysis
+### Retrosynthetic Analysis
+
+## Malonic Ester Synthesis
+### Michael Addition of Enolate Anions
+### Retrosynthetic Analysis
+### Robinson Annulation
+### Retrosynthetic Analysis
+### Conjugate Addition of Lithium Diogranocopper Reagents
+
+## Conjugate Addition to a,b-Unsaturated Carbonyl Compounds
+### Acid-Base Consideration
+### Base Stoichiometry
+### Crossed Enolate Reactions Using LDA
+### Kinetic Versus Thermodynamic Enolates
+1. Slight excess of the base
+2. Slight excess of the ketone
+
+## Crossed Enolate Reactions Using LDA
 
 # Dienes, Conjugated Systems, and Pericyclic Reactions
 ## Stability of conjugated dienes二烯
