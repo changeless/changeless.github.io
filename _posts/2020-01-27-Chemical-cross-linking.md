@@ -1,6 +1,5 @@
 ---
-title: Chemical cross-linking
-coupled with mass spectrometry (CXMS)
+title: Chemical cross-linking coupled with mass spectrometry (CXMS)
 categories: 
 - biology
 tags: 
