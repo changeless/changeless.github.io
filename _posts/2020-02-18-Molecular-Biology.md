@@ -126,3 +126,71 @@ Copia (Fly), Tr1/Alu (yeast)
 
 ### 假基因
 具有与功能基因相似的序列，但不能翻译有功能蛋白质的无功能基因
+
+# The replication of DNA
+Replicon: A part of DNA from the beginning of replication to the end of replication
+
+## DNA复制的基本特征
+### 半保留复制 Semiconservative replication
+### 5’ -> 3’ 延伸方向
+### 半不连续复制
+前导链 leading strand
+后随莲 lagging strand
+冈崎片段
+
+### 复制的起点&方向
+Ori：origin of replication
+Slow - stop mutation: 复制发动基因温度敏感型突变体，该突变体在37度下可以正常发动DNA的复制，当转入42度的培养条件下，由于DNA的延伸由延长基因控制，整个复制过程不会立刻停止，只有当完成这一周期的复制后，下一周期的复制启动不能发动 - 慢停现象
+Fast - stop mutation: 复制延长基因温度敏感型突变体，由于DNA延长基因的突变，当从37度转入42度后，整个复制过程表现为立刻停止
+Bi-directional replication
+Unidirectional replication
+Multiple replicons: several origins in one sequence
+
+### 复制的引物
+冈崎片段引物：RNA聚合酶（与负责RNA转录的RNA聚合酶是不同的酶类）
+RNA聚合酶：引发酶（primase）
+引发酶+相关酶类=引发体（primasome）
+每一个冈崎片段都需要有RNA引物
+RNA聚合酶
+当冈崎片段复制完成后，DNA聚合酶I利用其外切和聚合功能降解RNA引物分子，同时利用前一个冈崎片段DNA的3’-OH聚合DNA，完成类似切口平移的过程，填补切除引物分子后的缺口。最后由DNA连接酶（ligase）将冈崎片段连接。
+
+### DNA复制的转录激活
+dnaG: 引发酶[Rif’]合成后随链的引物
+
+### DNA的复制模式
+#### 新起始方式或复制叉式
+#### 滚环方式或共价延伸方式
+环状双链DNA模板
+在一条单链上形成切口（3’-OH & 5’-P）
+延伸的前导链置换原有的单链
+一个原有单链完全被新生前导单链置换
+新生前导单链不断延伸，形成多个被置换的单链拷贝
+
+#### 置换式或D环方式
+
+### DNA复制体的结构与复制的回环模型
+
+### 线形DNA复制避免5’端短缩的方式
+
+## 真核生物DNA复制的特点
+### 染色体DNA为多复制子
+### 染色体多复制子复制的非一致性
+自主复制序列（autonomously replicating sequences, ARS): 富含AT碱基并在不同复制子重较为保守的序列
+
+### 真核生物避免5’端短缩的机制
+#### 真核生物染色体末端的特异结构—端粒 Telomere
+维持染色体稳定性
+末端重复片段
+
+#### 端粒酶
+端粒酶基因表达如果受到抑制，将会导致体细胞中染色体DNA一代一代的短缩，当短至一个重要的信号序列处，就会引起细胞的早衰或死亡
+
+## DNA复制的终止
+Tus (terminus utilization substance) 终止蛋白
+ter E, ter D, ter A, ter F, ter C, ter B
+
+## DNA复制的调控
+Ori上游555nt处有RNA-II转录起点，朝向ori方向转录RNA-II，当转录通过原点ori后，RNA被RNaseH酶切提供引物，发动DNA复制 — 正控制
+Ori上游445nt处的，背向ori方向转录RNA-I，RNA-I/RNA-II配对成双链后形成3个茎环结构，阻止了RNaseH对RNA-II的酶切 — 反控制
+Rom基因调控RNA-I/RNA-II
+
