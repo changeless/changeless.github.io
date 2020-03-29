@@ -22,7 +22,7 @@ To detect RNA species, a reverse transcriptase compatible with the temperature o
 LAMP uses 4-6 primers recognizing 6-8 distinct regions of target DNA. A strand-displacing DNA polymerase initiates synthesis and 2 of the primers form loop structures to facilitate subsequent rounds of amplification. LAMP is rapid, sensitive, and amplification is so extensive that the magnesium pyrophosphate produced during the reaction can be seen by eye, making LAMP well-suited for field diagnostics.
 
 <video id="video" controls="" preload="none">
-<source id="mp4" src="Tutorial: https://play.vidyard.com/6anZSWUqpiCZ1wiqis9UkA.jpg?" type="video/mp4">
+<source id="mp4" src="https://play.vidyard.com/6anZSWUqpiCZ1wiqis9UkA.jpg?" type="video/mp4">
 </video>
 
 
