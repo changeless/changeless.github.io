@@ -78,3 +78,6 @@ RPA uses a recombinase enzyme to help primers invade double-stranded DNA. T4 Uvs
 NASBA and Transcription Mediated Amplification (TMA) are both isothermal amplification methods that proceed through RNA. Primers are designed to target a region of interest; one of the primers must include the promoter sequence for T7 RNA polymerase at the 5’ end. NASBA and TMA reactions are utilized in a range of clinical diagnostics.
 
 ![tutorial](https://www.neb.com/-/media/nebus/page-images/products/isothermal-amplification/tma_overview_1119.png?h=682&w=488&la=en&rev=dfe7678fed0f42bbaf9b1f852930cbca&hash=A50E17558581501AFFA65E71FD7388057372F67D)
+
+# Reference
+1. [Isothermal Amplification](https://www.neb.com/applications/dna-amplification-pcr-and-qpcr/isothermal-amplification)
