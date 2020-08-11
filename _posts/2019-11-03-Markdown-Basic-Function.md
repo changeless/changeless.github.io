@@ -68,3 +68,4 @@ To | *__Look__* | Pretty
 1. [Markdown快速入门](https://www.jianshu.com/p/774f70629770)
 2. [How to apply color in Markdown](https://stackoverflow.com/a/35485694)
 3. [Learning-Markdown (Markdown 入门参考)](http://xianbai.me/learn-md/index.html)
+4. [How to Create a Markdown Table](https://www.makeuseof.com/tag/create-markdown-table/)
