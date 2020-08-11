@@ -40,10 +40,11 @@ More than three times of `*` `+` `-`
 
 ## chart
 1. 
-`| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |`
+
+  | Column 1       | Column 2     | Column 3     | 
+  | :------------- | :----------: | -----------: | 
+  |  Cell Contents | More Stuff   | And Again    | 
+  | You Can Also   | Put Pipes In | Like this \| |`
 
 | Column 1       | Column 2     | Column 3     |
 | :------------- | :----------: | -----------: |
@@ -51,10 +52,10 @@ More than three times of `*` `+` `-`
 | You Can Also   | Put Pipes In | Like this \| |
 
 2. 
-`Column 1 | Column 2 | Column 3
---- | --- | ---
-**Things** | _Don't_ | [Need](http://makeuseof.com)
-To | *__Look__* | Pretty`
+  Column 1 | Column 2 | Column 3
+  --- | --- | ---
+  **Things** | _Don't_ | [Need](http://makeuseof.com)
+  To | *__Look__* | Pretty`
 
 Column 1 | Column 2 | Column 3
 --- | --- | ---
