@@ -9,6 +9,8 @@ tags:
 # 概述
 流式细胞术: 以流式细胞仪为检测手段，快速、准确、客观检测单个生物微粒的多项特性，并加以定量的技术，同时可以对特定群体加以分选。
 
+FACS is used as a cell sorter and enriched for a subset of cells which is often then studied in further detail using flow cytometry(FCM) or other analytical techniques. Flow cytometry is used for cell analysis and is focused on measuring protein expression or co-expression within a mixed population of cells.
+
 # 原理
 
 1. Cell suspension
