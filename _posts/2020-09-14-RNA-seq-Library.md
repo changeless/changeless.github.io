@@ -11,7 +11,7 @@ RNA-seq Library
 
 # RNA-seq基本流程
 
-[Preparing an RNA-seq Library](https://upload-images.jianshu.io/upload_images/7027828-45453f771c5c26b5)
+![Preparing an RNA-seq Library](../assets/images/2020-09-14/7027828-45453f771c5c26b5.webp)
 
 ## 反转录
 1. 用反转录酶 reverse transcriptase (RT) 将RNA作为模板合成DNA
@@ -35,7 +35,7 @@ RNA-seq Library
 
 [photo](https://upload-images.jianshu.io/upload_images/7027828-85339f737fa4f8d2?imageMogr2/auto-orient/strip|imageView2/2/w/1158/format/webp)
 
-[photo](https://upload-images.jianshu.io/upload_images/7027828-965d0ab5f0825244?imageMogr2/auto-orie)nt/strip|imageView2/2/w/1101/format/webp)
+[photo](https://upload-images.jianshu.io/upload_images/7027828-965d0ab5f0825244?imageMogr2/auto-orient/strip|imageView2/2/w/1101/format/webp)
 
 
 1. 测序：识别四种碱基发出的不同颜色的荧光
