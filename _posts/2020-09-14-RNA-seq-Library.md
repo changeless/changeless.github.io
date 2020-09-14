@@ -11,7 +11,7 @@ RNA-seq Library
 
 # RNA-seq基本流程
 
-![Preparing an RNA-seq Library](https://upload-images.jianshu.io/upload_images/7027828-45453f771c5c26b5?imageMogr2/auto-orient/strip|imageView2/2/w/855/format/webp)
+![Preparing an RNA-seq Library](https://upload-images.jianshu.io/upload_images/7027828-45453f771c5c26b5)
 
 ## 反转录
 1. 用反转录酶 reverse transcriptase (RT) 将RNA作为模板合成DNA
