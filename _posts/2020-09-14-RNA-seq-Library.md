@@ -11,7 +11,7 @@ RNA-seq Library
 
 # RNA-seq基本流程
 
-![Preparing an RNA-seq Library](https://upload-images.jianshu.io/upload_images/7027828-45453f771c5c26b5)
+[Preparing an RNA-seq Library](https://upload-images.jianshu.io/upload_images/7027828-45453f771c5c26b5)
 
 ## 反转录
 1. 用反转录酶 reverse transcriptase (RT) 将RNA作为模板合成DNA
@@ -23,7 +23,7 @@ RNA-seq Library
 
 ## 加接头
 
-![a](https://upload-images.jianshu.io/upload_images/7027828-c4c0cdff216f261f?imageMogr2/auto-orient/strip|imageView2/2/w/923/format/webp)
+[photo](https://upload-images.jianshu.io/upload_images/7027828-c4c0cdff216f261f?imageMogr2/auto-orient/strip|imageView2/2/w/923/format/webp)
 
 1. 为了让机器可以识别这些序列，把这些序列固定
 2. 为了让多个样品可以同时上机，平摊每个样品的测序价格
@@ -33,9 +33,9 @@ RNA-seq Library
 1. 对于illumina数据，有一条5-3的universal adaptor；还有一条是3-5的indexed adatpor，这条引物含有特意的barcode
 2. 在双端测序中，如果insert 不是足够长，那么R1可能就会测到R2的引物，同时R2可能会测到R1引物的反向互补序列。
 
-![b](https://upload-images.jianshu.io/upload_images/7027828-85339f737fa4f8d2?imageMogr2/auto-orient/strip|imageView2/2/w/1158/format/webp)
+[photo](https://upload-images.jianshu.io/upload_images/7027828-85339f737fa4f8d2?imageMogr2/auto-orient/strip|imageView2/2/w/1158/format/webp)
 
-![c](https://upload-images.jianshu.io/upload_images/7027828-965d0ab5f0825244?imageMogr2/auto-orie)nt/strip|imageView2/2/w/1101/format/webp)
+[photo](https://upload-images.jianshu.io/upload_images/7027828-965d0ab5f0825244?imageMogr2/auto-orie)nt/strip|imageView2/2/w/1101/format/webp)
 
 
 1. 测序：识别四种碱基发出的不同颜色的荧光
@@ -47,7 +47,7 @@ RNA-seq Library
 a. tophat的参数应该为 `–library-type fr-firststrand`
 b. 这里的first-strand cDNA可不是RNA strand，在使用htseq-count 时，真正的正义链应该是使用参数 `-s reverse` 得到的结果。
 
-![d](https://upload-images.jianshu.io/upload_images/7027828-b29d8480fabe8dcc?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
+[photo](https://upload-images.jianshu.io/upload_images/7027828-b29d8480fabe8dcc?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
 
 ## 链名
 1. 正链 forward: 可以同时有sense strand 和 antisense strand。因为这完全是两个不同的概念。
