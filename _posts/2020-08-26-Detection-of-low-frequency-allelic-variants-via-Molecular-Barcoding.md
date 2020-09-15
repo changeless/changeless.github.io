@@ -7,17 +7,23 @@ tags:
 ---
 
 # 什么是NGS（next gene sequencing)
+
 # 如何在NGS前富集靶标区域？
-## 使用靶标特异性探针从测序文库中进行杂交捕获 - 将DNA片段在溶液中基因组中靶标区域对应的序列特异性捕获探针进行杂交（杂交捕获技术：Agilent SureSelect, NimbleGenSeqCap, Illumia TruSeq)
-## 利用靶标特异性引物直接用样品DNA进行PCR扩增 - 选定的外显子引物通过PCR富集靶标基因（Ion Torrent AmpliSeq, RainDance ThunderBolts, Illumina TruSeq扩增子等仅基于PCR的方法，以及Agilent HaloPlex等杂交和延伸方法）
-# NGS中潜在的错误来源: PCR和测序方法的系统误差 - 0.05%～1%
+1. 使用靶标特异性探针从测序文库中进行杂交捕获 - 将DNA片段在溶液中基因组中靶标区域对应的序列特异性捕获探针进行杂交（杂交捕获技术：Agilent SureSelect, NimbleGenSeqCap, Illumia TruSeq)
+2. 利用靶标特异性引物直接用样品DNA进行PCR扩增 - 选定的外显子引物通过PCR富集靶标基因（Ion Torrent AmpliSeq, RainDance ThunderBolts, Illumina TruSeq扩增子等仅基于PCR的方法，以及Agilent HaloPlex等杂交和延伸方法）
+
+# NGS中潜在的错误来源
+PCR和测序方法的系统误差 - 0.05%～1%
+
 # 什么是分子条形码：为同一样品的每个原始DNA片段连接上一段独一无二的序列编码 - 可用于计量高覆盖率NGS数据中的测序误差和PCR误差
-## 完全随机的核苷酸链（如NNNNNNN）
-## 部分简并核苷酸链（如NNNRNYN）
-## 指定核苷酸链（模板分子有限时）
+1. 完全随机的核苷酸链（如NNNNNNN）
+2. 部分简并核苷酸链（如NNNRNYN）
+3. 指定核苷酸链（模板分子有限时）
+
 # 分子条形码和样品条形码有何不同
-## 分子条形码 - 减少假阳性结果
-## 样品条形码（标签接头）- 常用于多数当前的NGS流程中，允许在测序前对样品进行混合 - 起标签的作用，以确定读出序列来源于哪个样品，因此可以在一次运行中检测多个样品
+1. 分子条形码 - 减少假阳性结果
+2. 样品条形码（标签接头）- 常用于多数当前的NGS流程中，允许在测序前对样品进行混合 - 起标签的作用，以确定读出序列来源于哪个样品，因此可以在一次运行中检测多个样品
+
 # 为什么要用分子条形码？
 1. 将DNA片段接上一段独特的序列条形码
 2. 具有不同分子条形码的读出序列代表不同的原始DNA分子
