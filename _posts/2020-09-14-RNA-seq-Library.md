@@ -77,11 +77,56 @@ c. With this option being used, every read alignment will have an XS attribute t
 6. sXpress --rf-stranded / —fr-stranded(看反义链)
 
 7. trinity --SSlibtype RF
-
-
 (后面关于生信的内容没看懂就没有整理了）
+
+# mRNA提取 
+## mRNA纯度 - rRNA占提取的总RNA量的95%以上
+![](https://pic2.zhimg.com/80/v2-372e79f49b3c043d133a194efc37279b_1440w.png)
+![](https://pic2.zhimg.com/80/v2-fbef0c6560a177aaca3f7f7c3b8866fb_1440w.png)
+![](https://picb.zhimg.com/80/v2-48a8a418a83f89b9ba7e3945d4046194_1440w.png)
+
+## rRNA去除以及建库
+![](https://pic1.zhimg.com/80/v2-f525fb83c22a548cca7adf8b2a0037b9_1440w.png)
+
+1. 利用高等生物mRNA都带有Poly(A)尾巴的特点，用带Poly(T)的探针磁珠与总RNA进行杂交，吸附其中的带Poly(A)尾巴的mRNA。
+2. 接下来进行磁珠的回收，然后把这些Poly(A)的mRNA从磁珠上洗脱下来。
+3. 然后在把洗脱下来的mRNA用镁离子溶液进行处理（镁离子溶液会把mRNA打断）
+4. 紧接着，被打断的mRNA片段再用随机引物（dNTP）进行逆转录。逆转录成cDNA（第一条链）后再合成第二条链。这样mRNA就变成了双链的cDNA。
+5. 最后，在双链cDNA的两端接上"Y"型的接头，经过PCR扩增，就成为了可以上机测序的文库。我们就可以去Hi Sqe测序仪上进行RNA测序。
+
+# 结果分析
+## 火山图
+作为一种针对全转录组的分析，我们希望看到的是一个整体样本的基因表达差异变化，而不仅仅是看少数几个基因的表达差异。
+
+![](https://pic1.zhimg.com/80/v2-f19b46021cf8abacdcee4802e7a08c00_1440w.png)
+
+这个图表达的是两个样本之间的表达差异（比如正常组织和癌变组织）横轴表达某个基因是上升了还是下降了，纵轴表述这种差异的置信程度
+
+## RNA聚类分析
+
+![](https://pic1.zhimg.com/80/v2-f4e1e02ae3193329975f2079f132c9e3_1440w.png)
+
+横轴表示样本，纵轴表示基因。在这个群体中，样本被分成了3个群体。每个群体的内部都有相似的表达特征，同时，我们也可以看到，基因的表达是成簇的。
+
+## GO分析（Gene Ontology分析）
+GO主要描述基因的三个属性：1、基因参与的生物学过程2、基因的产物的功能3、基因产物在细胞内的空间定位。
+![](https://pic1.zhimg.com/80/v2-bdae6034e6fa798e71f0189471209d85_1440w.png)
+![](https://pic4.zhimg.com/80/v2-52951d7c8931ccdcdcb68b9167668f7c_1440w.png)
+![](https://pic3.zhimg.com/80/v2-e8af4529951f588772da149c6b07523f_1440w.png)
+
+## KEGG通路分析
+1. 通路分析：通路是指在系统水平上完成生物的某一功能的基本单位或者局部子网络。
+2. KEGG是目前公认的、最权威的基因功能数据库。其中的通路分析是KEGG的核心内容。目前对于通路的分析、注释，大多数是基于KEGG通路来做的。
+
+![](https://pic1.zhimg.com/80/v2-73f5b28d8b9b2aad6711e459cb9d5935_1440w.png)
+![](https://pic4.zhimg.com/80/v2-f29a6becfce474f32def205202e0ff58_1440w.png)
+![](https://pic1.zhimg.com/80/v2-f1236a6d1e8f3c9c126b14292a555ad7_1440w.png)
+
+点的面积越大，则富集的基因鼠就越多。富集因子越大，则表示富集的程度越大。qvalue是校正之后的pvalue，其值越接近0表示富集程度越显著。
+
+
 
 # Reference
 1. [链特异建库那点事](https://www.jianshu.com/p/a63595a41bed)
-
+2. [看这里，你所需要的RNA-seq建库方法以及数据分析](https://zhuanlan.zhihu.com/p/141330526)
 
