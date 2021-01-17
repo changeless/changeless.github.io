@@ -11,7 +11,7 @@ RNA与蛋白质互作高通量检测技术
 转录后基因调控：RNA转录本与大量RNA结合蛋白（RNA binding proteins, RBPs）在物理层面的互作介导的，这些蛋白调节RNA剪接（splicing）、稳定性（stability）、核转运（nuclear export）和翻译（translation）等特性。因此，阐释这些RBPs的RNA结合偏好并绘制RBPs蛋白质组图有助于揭示RNA-蛋白质结合互作的生物学功能。
 
 # Approaches to footprint RNA-protein binding sites 研究RNA-蛋白结合位点印记的方法
-![](https://mmbiz.qpic.cn/mmbiz_png/IIxcTHJiaP4sNYEauovQgdP94Kr2rTAKHCjufDfGxLc7vjSHVNQiadoqCkib4krUFMj0RwhuRUYIic8PQA4evHoNvg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 三类主流的RNA-蛋白结合位点高通量测序鉴定方法
 
@@ -41,7 +41,7 @@ RNA与蛋白质互作高通量检测技术
 4. HyperTRIBE：是TRIBE的增强版 - 更活跃的ADAR突变体
 
 # Approaches to profile the RNA-binding proteome
-![](https://mmbiz.qpic.cn/mmbiz_png/IIxcTHJiaP4sNYEauovQgdP94Kr2rTAKHKbwOmfrekopCIxdstF8SPTETCsHpnyDMicqPDGLReJJgHLDJr9ogB6g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 ## Oligo(dT)
 1. Hentze and Landthaler’s lab - RBP分离 - interactive capture
@@ -79,7 +79,7 @@ RNA与蛋白质互作高通量检测技术
 可从细胞中富集RNA-RBP复合物且不限于RNA是否携带polyA结构
 
 # Approaches to study RNA modification–associated proteins RNA修饰相关蛋白研究方法进展
-![](https://mmbiz.qpic.cn/mmbiz_png/IIxcTHJiaP4sNYEauovQgdP94Kr2rTAKHTib7n7rxkq6mk5mOkkJdLxSOW7xwpQiasDuuIYSouMIAVspraZjEfddg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
 
 1. 由于RNA上的修饰水平较低，因此CLIP或RNA互作捕获等方法不太适用于研究与RNA修饰相关的RBP（或者叫阅读蛋白reader）
 2. 仍然缺乏在细胞修饰位点附近进行偏向光交联（bias photocrosslinking）的方法
