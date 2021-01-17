@@ -14,11 +14,6 @@ tags:
 2. 2016 Chris Voigt (MIT) Cello - 用于大肠杆菌中的逻辑基因电路设计，这是一种出色的端到端计算机辅助设计系统
 3. 2016 Craig Veter 迄今为止拥有最小基因组的生命Synthia 3.0诞生了
 4. David Baker研究团队 - 让人工合成的功能蛋白成为了酵母细胞中基因线路的关键组分
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/iakdLe3jpL3icowiaQRiaz0hlYF7V5c8jlPFvPYoFWhzQn6QapErLQM9oOJvWrG8YeuzRdeZdIDYzvowxqz9QsXWTg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/iakdLe3jpL3icowiaQRiaz0hlYF7V5c8jlPFyzzP3URbZXKInAefUKxlib57icg72c1oMOqlcY1kkvcJeMnPk0S07vMQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
 5. 2006年以来 George Church 将每个TAG终止密码子突变为TAA密码子 - 希望最终能够省出一个密码子用于非天然氨基酸的高效引入
 6. CRISPR先驱 - TALENs（TAL-Effector核酸酶）
 7. Golden Gate Assembly现在在基因构建过程中主导方法之一，通过Addgene共享的许多模块化克隆（MoClo）工具箱和遗传元件库
